@@ -1,5 +1,5 @@
 ## Finding Heavy Traffic Indicators on I-94 Interstate Highway
-The goal of this project is to determine some of the potential indicators of heavy traffic on I-94 Interstate highway. 
+The goal of this project is to find some of the potential indicators of heavy traffic on I-94 Interstate highway. 
 These indicators could be weather, time of the day, time of the week, etc.
 The dataset used was from 2012 - 2018, which was made available by John Hogue, and can be downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume)
 
@@ -16,10 +16,10 @@ The dataset have 9 columns
 - `date_time`: DateTime Hour of the data collected in local CST time
 - `traffic_volume`: Numeric Hourly I-94 ATR 301 reported westbound traffic volume
 
-### Insights From the Analysis
+### Insights From The Analysis
 The results of the analysis revealed that:
 - Traffic is usually heavier during the warm months (March - October) and less heavy in the cold months (November - February)
-- Generall, the traffic volume is usually higher during the working days, compare to weekends. 
+- Generally, the traffic volume is usually higher during the working days, compare to weekends. 
 - The rush hours for heavy traffic are 6am-7am and 3pm-4pm on daytime with records of over 6000 cars.
 - Temperature does not have strong correlation with traffic volume.
 
