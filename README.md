@@ -1,5 +1,5 @@
 ## Finding Heavy Traffic Indicators on I-94 Interstate Highway
-The goal of this project is to find some of the potential indicators of heavy traffic on I-94 Interstate highway. 
+The goal of this project is to find some of the potential indicators of heavy traffic on the I-94 Interstate highway. 
 These indicators could be weather, time of the day, time of the week, etc.
 The dataset used was from 2012 - 2018, which was made available by John Hogue, and can be downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume)
 
